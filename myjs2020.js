@@ -47,7 +47,8 @@ function searchMatch_Smart(searchText, searchInText) {
   return all_good
 }
 
-
+/*
 module.exports = {
   searchMatch_Smart,
 }
+*/
